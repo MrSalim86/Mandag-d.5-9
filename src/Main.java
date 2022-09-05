@@ -25,6 +25,7 @@ public class Main {
         liste.tail = node3;
 
         System.out.println(liste.printFromHead());
+        System.out.println(liste.printFromTail());
 
 
     }
